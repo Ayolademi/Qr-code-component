@@ -1,0 +1,35 @@
+body{
+    background-color:hsl(212, 45%, 89%) ;
+    width: 74%;
+    align-items: center;
+    font-size:2rem; 
+    text-align: center;
+    justify-content: center;
+    padding: 1.5rem;
+    font-family: 'outfit';
+    
+
+}
+img{
+    background-size: cover;
+    background-position:center;
+    border-radius: 1.5rem;
+
+}
+.code{
+    align-items: center;
+    text-align: center;
+    background:hsl(0, 0%, 100%);
+    margin-top: 8.5rem;
+    margin-left: 20rem;
+    padding: 1.8rem;
+    border-radius: 1.5rem;
+    font-family: 'outfit';
+    
+}
+h2{
+    color:hsl(218, 44%, 22%) ;
+}
+p{
+    color:hsl(220, 15%, 55%) ;
+}
